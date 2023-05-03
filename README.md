@@ -37,8 +37,8 @@ Click the following link to read solution.
 
 #### LinkList
 
-- [19. Remove Nth Node From End of List]()
-- [82. Remove Duplicates from Sorted List II]()
+- [19. Remove Nth Node From End of List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/19.md)
+- [82. Remove Duplicates from Sorted List II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/82.md)
 
 ## Related Efforts
 
