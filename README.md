@@ -39,6 +39,9 @@ Click the following link to read solution.
 
 - [19. Remove Nth Node From End of List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/19.md)
 - [82. Remove Duplicates from Sorted List II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/82.md)
+- [83. Remove Duplicates from Sorted List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/83.md)
+- [203. Remove Linked List Elements](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/203.md)
+- [237. Delete Node in a Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/237.md)
 
 ## Related Efforts
 
