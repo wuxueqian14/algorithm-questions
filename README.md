@@ -44,6 +44,8 @@ Click the following link to read solution.
 - [237. Delete Node in a Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/237.md)
 - [61. Rotate List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/61.md)
 - [206. Reverse Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/206.md)
+- [92. Reverse Linked List II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/92.md)
+- [2. Add Two Numbers]((https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/2.md))
 
 ## Related Efforts
 
