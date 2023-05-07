@@ -45,7 +45,10 @@ Click the following link to read solution.
 - [61. Rotate List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/61.md)
 - [206. Reverse Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/206.md)
 - [92. Reverse Linked List II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/92.md)
-- [2. Add Two Numbers]((https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/2.md))
+- [2. Add Two Numbers](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/2.md)
+- [21. Merge Two Sorted Lists](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/21.md)
+- [445. Add Two Numbers II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/445.md)
+- [141. Linked List Cycle](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/141.md)
 
 ## Related Efforts
 
