@@ -49,6 +49,9 @@ Click the following link to read solution.
 - [21. Merge Two Sorted Lists](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/21.md)
 - [445. Add Two Numbers II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/445.md)
 - [141. Linked List Cycle](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/141.md)
+- [142. Linked List Cycle II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/142.md)
+- [876. Middle of the Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/876.md)
+- [143. Reorder List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/143.md)
 
 ## Related Efforts
 
