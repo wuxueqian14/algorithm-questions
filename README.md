@@ -52,8 +52,10 @@ Click the following link to read solution.
 - [142. Linked List Cycle II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/142.md)
 - [876. Middle of the Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/876.md)
 - [143. Reorder List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/143.md)
-- [725. Split Linked List in Parts](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/143.md)
+- [725. Split Linked List in Parts](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/725.md)
 - [86. Partition List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/86.md)
+- [147. Insertion Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/147.md)
+- [148. Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/148.md)
 
 ## Related Efforts
 
