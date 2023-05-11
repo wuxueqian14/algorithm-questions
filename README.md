@@ -56,6 +56,9 @@ Click the following link to read solution.
 - [86. Partition List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/86.md)
 - [147. Insertion Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/147.md)
 - [148. Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/148.md)
+- [209. Minimum Size Subarray Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/209.md)
+- [713. Subarray Product Less Than K](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/713.md)
+- [3. Longest Substring Without Repeating Characters](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/3.md)
 
 ## Related Efforts
 
