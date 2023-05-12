@@ -56,9 +56,14 @@ Click the following link to read solution.
 - [86. Partition List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/86.md)
 - [147. Insertion Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/147.md)
 - [148. Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/148.md)
+
+#### double pointer
+
 - [209. Minimum Size Subarray Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/209.md)
 - [713. Subarray Product Less Than K](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/713.md)
 - [3. Longest Substring Without Repeating Characters](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/3.md)
+- [167. Two Sum II - Input Array Is Sorted](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/167.md)
+- [15.3Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/15.md)
 
 ## Related Efforts
 
