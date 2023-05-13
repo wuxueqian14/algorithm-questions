@@ -64,6 +64,8 @@ Click the following link to read solution.
 - [3. Longest Substring Without Repeating Characters](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/3.md)
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/167.md)
 - [15.3Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/15.md)
+- [11. Container With Most Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/11.md)
+- [42. Trapping Rain Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/42.md)
 
 ## Related Efforts
 
