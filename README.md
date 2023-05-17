@@ -48,10 +48,6 @@ Click the following link to read solution.
 - [2. Add Two Numbers](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/2.md)
 - [21. Merge Two Sorted Lists](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/21.md)
 - [445. Add Two Numbers II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/445.md)
-- [141. Linked List Cycle](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/141.md)
-- [142. Linked List Cycle II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/142.md)
-- [876. Middle of the Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/876.md)
-- [143. Reorder List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/143.md)
 - [725. Split Linked List in Parts](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/725.md)
 - [86. Partition List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/86.md)
 - [147. Insertion Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/147.md)
@@ -59,6 +55,10 @@ Click the following link to read solution.
 
 #### double pointer
 
+- [141. Linked List Cycle](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/141.md)
+- [142. Linked List Cycle II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/142.md)
+- [876. Middle of the Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/876.md)
+- [143. Reorder List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/143.md)
 - [209. Minimum Size Subarray Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/209.md)
 - [713. Subarray Product Less Than K](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/713.md)
 - [3. Longest Substring Without Repeating Characters](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/3.md)
