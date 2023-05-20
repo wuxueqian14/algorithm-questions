@@ -67,6 +67,12 @@ Click the following link to read solution.
 - [11. Container With Most Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/11.md)
 - [42. Trapping Rain Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/42.md)
 
+#### binary search
+
+- [34. Find First and Last Position of Element in Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
+- [162. Find Peak Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
+
 ## Related Efforts
 
 ## Maintainers
