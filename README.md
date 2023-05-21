@@ -69,9 +69,11 @@ Click the following link to read solution.
 
 #### binary search
 
+- [704. Binary Search](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/704.md)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
 - [162. Find Peak Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
+- [33. Search in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/33.md)
 
 ## Related Efforts
 
