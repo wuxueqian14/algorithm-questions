@@ -74,6 +74,11 @@ Click the following link to read solution.
 - [162. Find Peak Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
 - [33. Search in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/33.md)
+- [35. Search Insert Position](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/35.md)
+- [278. First Bad Version](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/278.md)
+- [977. Squares of a Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/977.md)
+- [374. Guess Number Higher or Lower](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/374.md)
+- [744. Find Smallest Letter Greater Than Target](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/744.md)
 
 ## Related Efforts
 
