@@ -70,6 +70,8 @@ Click the following link to read solution.
 #### binary search
 
 - [704. Binary Search](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/704.md)
+- [69. Sqrt(x)](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/69.md)
+- [367. Valid Perfect Square](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/367.md)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
 - [162. Find Peak Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
@@ -79,6 +81,12 @@ Click the following link to read solution.
 - [977. Squares of a Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/977.md)
 - [374. Guess Number Higher or Lower](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/374.md)
 - [744. Find Smallest Letter Greater Than Target](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/744.md)
+- [852. Peak Index in a Mountain Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/852.md)
+- [875. Koko Eating Bananas](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/875.md)
+
+#### dynamic programming
+
+- [1014. Best Sightseeing Pair](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1014.md)
 
 ## Related Efforts
 
