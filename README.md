@@ -55,6 +55,10 @@ Click the following link to read solution.
 
 #### double pointer
 
+- [27. Remove Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/27.md)
+- [26. Remove Duplicates from Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/26.md)
+- [283. Move Zeroes](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/283.md)
+- [844. Backspace String Compare](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/844.md)
 - [141. Linked List Cycle](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/141.md)
 - [142. Linked List Cycle II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/142.md)
 - [876. Middle of the Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/876.md)
