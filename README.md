@@ -70,6 +70,8 @@ Click the following link to read solution.
 - [15.3Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/15.md)
 - [11. Container With Most Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/11.md)
 - [42. Trapping Rain Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/42.md)
+- [904. Fruit Into Baskets](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/904.md)
+- [76. Minimum Window Substring](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/76.md)
 
 #### binary search
 
