@@ -35,6 +35,11 @@ Click the following link to read solution.
 
 ### Leetcode
 
+#### array
+
+- [59. Spiral Matrix II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/59.md)
+- [54. Spiral Matrix](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/54.md)
+
 #### LinkList
 
 - [19. Remove Nth Node From End of List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/19.md)
@@ -67,7 +72,7 @@ Click the following link to read solution.
 - [713. Subarray Product Less Than K](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/713.md)
 - [3. Longest Substring Without Repeating Characters](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/3.md)
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/167.md)
-- [15.3Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/15.md)
+- [15. 3Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/15.md)
 - [11. Container With Most Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/11.md)
 - [42. Trapping Rain Water](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/42.md)
 - [904. Fruit Into Baskets](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/904.md)
@@ -93,6 +98,10 @@ Click the following link to read solution.
 #### dynamic programming
 
 - [1014. Best Sightseeing Pair](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1014.md)
+
+### 剑指offer
+
+- [29. 顺时针打印矩阵](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/29.md)
 
 ## Related Efforts
 
