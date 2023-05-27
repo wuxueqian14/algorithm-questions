@@ -57,6 +57,8 @@ Click the following link to read solution.
 - [86. Partition List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/86.md)
 - [147. Insertion Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/147.md)
 - [148. Sort List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/148.md)
+- [707. Design Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/707.md)
+- [24. Swap Nodes in Pairs](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/24.md)
 
 #### double pointer
 
@@ -94,6 +96,11 @@ Click the following link to read solution.
 - [744. Find Smallest Letter Greater Than Target](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/744.md)
 - [852. Peak Index in a Mountain Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/852.md)
 - [875. Koko Eating Bananas](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/875.md)
+
+#### hash table
+
+- [242. Valid Anagram](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/242.md)
+- [349. Intersection of Two Arrays](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/349.md)
 
 #### dynamic programming
 
