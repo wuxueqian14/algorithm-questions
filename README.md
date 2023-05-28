@@ -101,6 +101,9 @@ Click the following link to read solution.
 
 - [242. Valid Anagram](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/242.md)
 - [349. Intersection of Two Arrays](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/349.md)
+- [350. Intersection of Two Arrays II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/350.md)
+- [202. Happy Number](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/202.md)
+- [1. Two Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1.md)
 
 #### dynamic programming
 
