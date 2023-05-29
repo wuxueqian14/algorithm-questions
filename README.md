@@ -104,6 +104,14 @@ Click the following link to read solution.
 - [350. Intersection of Two Arrays II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/350.md)
 - [202. Happy Number](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/202.md)
 - [1. Two Sum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1.md)
+- [454. 4Sum II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/454.md)
+- [383. Ransom Note](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/383.md)
+
+#### string
+
+- [344. Reverse String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/344.md)
+- [541. Reverse String II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/541.md)
+
 
 #### dynamic programming
 
