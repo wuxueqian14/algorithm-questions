@@ -111,7 +111,8 @@ Click the following link to read solution.
 
 - [344. Reverse String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/344.md)
 - [541. Reverse String II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/541.md)
-
+- [151. Reverse Words in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/151.md)
+- [28. Find the Index of the First Occurrence in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/28.md)
 
 #### dynamic programming
 
@@ -120,6 +121,8 @@ Click the following link to read solution.
 ### 剑指offer
 
 - [29. 顺时针打印矩阵](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/29.md)
+- [05. 替换空格](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/5.md)
+- [58 - II. 左旋转字符串](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/58II.md)
 
 ## Related Efforts
 
