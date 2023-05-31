@@ -113,6 +113,7 @@ Click the following link to read solution.
 - [541. Reverse String II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/541.md)
 - [151. Reverse Words in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/151.md)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/28.md)
+- [459. Repeated Substring Pattern](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/459.md)
 
 #### dynamic programming
 
