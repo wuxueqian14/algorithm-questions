@@ -115,6 +115,10 @@ Click the following link to read solution.
 - [28. Find the Index of the First Occurrence in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/28.md)
 - [459. Repeated Substring Pattern](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/459.md)
 
+#### stack and queue
+
+- [232. Implement Queue using Stacks](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/232.md)
+
 #### dynamic programming
 
 - [1014. Best Sightseeing Pair](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1014.md)
