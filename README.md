@@ -118,6 +118,8 @@ Click the following link to read solution.
 #### stack and queue
 
 - [232. Implement Queue using Stacks](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/232.md)
+- [225. Implement Stack using Queues](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/225.md)
+- [20. Valid Parentheses](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/20.md)
 
 #### dynamic programming
 
