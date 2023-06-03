@@ -120,6 +120,9 @@ Click the following link to read solution.
 - [232. Implement Queue using Stacks](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/232.md)
 - [225. Implement Stack using Queues](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/225.md)
 - [20. Valid Parentheses](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/20.md)
+- [1047. Remove All Adjacent Duplicates In String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1047.md)
+- [150. Evaluate Reverse Polish Notation](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/150.md)
+- [239. Sliding Window Maximum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/239.md)
 
 #### dynamic programming
 
