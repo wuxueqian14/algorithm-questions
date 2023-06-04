@@ -123,6 +123,11 @@ Click the following link to read solution.
 - [1047. Remove All Adjacent Duplicates In String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1047.md)
 - [150. Evaluate Reverse Polish Notation](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/150.md)
 - [239. Sliding Window Maximum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/239.md)
+- [347. Top K Frequent Elements](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/347.md)
+
+#### binary tree
+
+- [226. Invert Binary Tree](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/226.md)
 
 #### dynamic programming
 
