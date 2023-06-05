@@ -127,7 +127,11 @@ Click the following link to read solution.
 
 #### binary tree
 
+- [144. Binary Tree Preorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/144.md)
+- [94. Binary Tree Inorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/94.md)
+- [145. Binary Tree Postorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/145.md)
 - [226. Invert Binary Tree](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/226.md)
+
 
 #### dynamic programming
 
