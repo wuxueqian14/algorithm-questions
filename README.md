@@ -1,46 +1,48 @@
 # algorithm-questions
 
-Record doing algorithm-questions
+记录刷算法题。
 
-## Table of Contents
+## 目录
 
 - [algorithm-questions](#algorithm-questions)
-  - [Table of Contents](#table-of-contents)
-  - [Background](#background)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Project going](#project-going)
+  - [目录](#目录)
+  - [下载](#下载)
+  - [用法](#用法)
+  - [项目进展](#项目进展)
     - [Leetcode](#leetcode)
-  - [Related Efforts](#related-efforts)
-  - [Maintainers](#maintainers)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
-  - [License](#license)
+      - [数组](#数组)
+      - [链表](#链表)
+      - [双指针](#双指针)
+      - [二分查找](#二分查找)
+      - [哈希表](#哈希表)
+      - [字符串](#字符串)
+      - [堆和栈](#堆和栈)
+      - [二叉树](#二叉树)
+      - [动态规划](#动态规划)
+    - [剑指offer](#剑指offer)
+  - [维护者](#维护者)
+  - [证书](#证书)
 
-## Background
-
-Exercise algorithms and data structures.
-
-## Install
+## 下载
 
 ```sh
 git clone https://github.com/wuxueqian14/algorithm-questions.git
 ```
 
-## Usage
+## 用法
 
-Click the following link to read solution.
+点击相应的题目链接。
 
-## Project going
+## 项目进展
 
 ### Leetcode
 
-#### array
+#### 数组
 
 - [59. Spiral Matrix II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/59.md)
 - [54. Spiral Matrix](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/54.md)
 
-#### LinkList
+#### 链表
 
 - [19. Remove Nth Node From End of List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/19.md)
 - [82. Remove Duplicates from Sorted List II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/82.md)
@@ -60,7 +62,7 @@ Click the following link to read solution.
 - [707. Design Linked List](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/707.md)
 - [24. Swap Nodes in Pairs](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/24.md)
 
-#### double pointer
+#### 双指针
 
 - [27. Remove Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/27.md)
 - [26. Remove Duplicates from Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/26.md)
@@ -80,13 +82,13 @@ Click the following link to read solution.
 - [904. Fruit Into Baskets](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/904.md)
 - [76. Minimum Window Substring](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/76.md)
 
-#### binary search
+#### 二分查找
 
-- [704. Binary Search](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/704.md)
-- [69. Sqrt(x)](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/69.md)
-- [367. Valid Perfect Square](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/367.md)
-- [34. Find First and Last Position of Element in Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
-- [162. Find Peak Element](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
+- [704. 二分查找](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/704.md)
+- [69. x的平方根](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/69.md)
+- [367. 有效的完全平方数](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/367.md)
+- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)(https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
+- [162. 寻找峰值](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
 - [33. Search in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/33.md)
 - [35. Search Insert Position](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/35.md)
@@ -97,7 +99,7 @@ Click the following link to read solution.
 - [852. Peak Index in a Mountain Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/852.md)
 - [875. Koko Eating Bananas](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/875.md)
 
-#### hash table
+#### 哈希表
 
 - [242. Valid Anagram](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/242.md)
 - [349. Intersection of Two Arrays](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/349.md)
@@ -107,7 +109,7 @@ Click the following link to read solution.
 - [454. 4Sum II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/454.md)
 - [383. Ransom Note](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/383.md)
 
-#### string
+#### 字符串
 
 - [344. Reverse String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/344.md)
 - [541. Reverse String II](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/541.md)
@@ -115,7 +117,7 @@ Click the following link to read solution.
 - [28. Find the Index of the First Occurrence in a String](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/28.md)
 - [459. Repeated Substring Pattern](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/459.md)
 
-#### stack and queue
+#### 堆和栈
 
 - [232. Implement Queue using Stacks](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/232.md)
 - [225. Implement Stack using Queues](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/225.md)
@@ -125,15 +127,14 @@ Click the following link to read solution.
 - [239. Sliding Window Maximum](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/239.md)
 - [347. Top K Frequent Elements](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/347.md)
 
-#### binary tree
+#### 二叉树
 
 - [144. Binary Tree Preorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/144.md)
 - [94. Binary Tree Inorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/94.md)
 - [145. Binary Tree Postorder Traversal](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/145.md)
 - [226. Invert Binary Tree](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/226.md)
 
-
-#### dynamic programming
+#### 动态规划
 
 - [1014. Best Sightseeing Pair](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/1014.md)
 
@@ -143,22 +144,10 @@ Click the following link to read solution.
 - [05. 替换空格](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/5.md)
 - [58 - II. 左旋转字符串](https://github.com/wuxueqian14/algorithm-questions/blob/main/p2offer/58II.md)
 
-## Related Efforts
-
-## Maintainers
+## 维护者
 
 [@wuxueqian14](https://github.com/wuxueqian14)
 
-## Contributing
-
-Feel free to dive in! [Open an issue](https://github.com/wuxueqian14/algorithm-questions/issues/new) or submit PRs.
-
-### Contributors
-
-This project exists thanks to all the people who contribute.
-
-[@wuxueqian14](https://github.com/wuxueqian14)
-
-## License
+## 证书
 
 [MIT](LICENSE) © Wu Xueqian
