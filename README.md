@@ -84,13 +84,13 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 二分查找
 
-- [704. 二分查找](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/704.md)
-- [69. x的平方根](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/69.md)
-- [367. 有效的完全平方数](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/367.md)
-- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)(https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/34.md)
-- [162. 寻找峰值](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/766.md)
-- [153. Find Minimum in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/153.md)
-- [33. Search in Rotated Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/33.md)
+- [704. 二分查找](leetcode/704.md)
+- [69. x的平方根](leetcode/69.md)
+- [367. 有效的完全平方数](leetcode/367.md)
+- [34. 在排序数组中查找元素的第一个和最后一个位置](leetcode/34.md)
+- [162. 寻找峰值](leetcode/162.md)
+- [153. 寻找旋转排序数组中的最小值](leetcode/153.md)
+- [33. 搜索旋转排序数组](leetcode/33.md)
 - [35. Search Insert Position](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/35.md)
 - [278. First Bad Version](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/278.md)
 - [977. Squares of a Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/977.md)
