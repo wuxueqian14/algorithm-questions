@@ -93,11 +93,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [33. 搜索旋转排序数组](leetcode/33.md)
 - [35. 搜索插入位置](leetcode/35.md)
 - [278. 第一个错误的版本](leetcode/278.md)
-- [977. Squares of a Sorted Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/977.md)
-- [374. Guess Number Higher or Lower](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/374.md)
-- [744. Find Smallest Letter Greater Than Target](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/744.md)
-- [852. Peak Index in a Mountain Array](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/852.md)
-- [875. Koko Eating Bananas](https://github.com/wuxueqian14/algorithm-questions/blob/main/leetcode/875.md)
+- [977. 有序数组的平方](leetcode/977.md)
+- [374. 猜数字大小](leetcode/374.md)
+- [744. 寻找比目标字母大的最小字母](leetcode/744.md)
+- [852. 山脉数组的峰顶索引](leetcode/852.md)
+- [875. 爱吃香蕉的珂珂](leetcode/875.md)
 
 #### 哈希表
 
