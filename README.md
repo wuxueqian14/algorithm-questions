@@ -13,6 +13,8 @@
       - [数组](#数组)
       - [链表](#链表)
       - [双指针](#双指针)
+      - [同向双指针](#同向双指针)
+      - [相向双指针](#相向双指针)
       - [二分查找](#二分查找)
       - [哈希表](#哈希表)
       - [字符串](#字符串)
@@ -64,6 +66,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 双指针
 
+#### 同向双指针
+
 - [27. 移除元素](leetcode/27.md)
 - [26. 删除有序数组中的重复项](leetcode/26.md)
 - [283. 移动零](leetcode/283.md)
@@ -73,10 +77,13 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [142. 环形链表 II](leetcode/142.md)
 - [143. 重排链表](leetcode/143.md)
 - [209. 长度最小的子数组](leetcode/209.md)
-- [713. Subarray Product Less Than K](leetcode/713.md)
+- [713. 乘积小于 K 的子数组](leetcode/713.md)
 - [3. 无重复字符的最长子串](leetcode/3.md)
-- [167. Two Sum II - Input Array Is Sorted](leetcode/167.md)
-- [15. 3Sum](leetcode/15.md)
+
+#### 相向双指针
+
+- [167. 两数之和 II - 输入有序数组](leetcode/167.md)
+- [15. 三数之和](leetcode/15.md)
 - [11. Container With Most Water](leetcode/11.md)
 - [42. Trapping Rain Water](leetcode/42.md)
 - [904. Fruit Into Baskets](leetcode/904.md)
