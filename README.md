@@ -86,8 +86,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [15. 三数之和](leetcode/15.md)
 - [11. 盛最多水的容器](leetcode/11.md)
 - [42. 接雨水](leetcode/42.md)
-- [904. Fruit Into Baskets](leetcode/904.md)
-- [76. Minimum Window Substring](leetcode/76.md)
+- [76. 最小覆盖子串](leetcode/76.md)
 
 #### 二分查找
 
