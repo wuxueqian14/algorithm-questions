@@ -16,6 +16,7 @@
       - [同向双指针](#同向双指针)
       - [相向双指针](#相向双指针)
       - [二分查找](#二分查找)
+      - [滑动窗口](#滑动窗口)
       - [哈希表](#哈希表)
       - [字符串](#字符串)
       - [堆和栈](#堆和栈)
@@ -75,9 +76,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [876. 链表的中间结点](leetcode/876.md)
 - [142. 环形链表 II](leetcode/142.md)
 - [143. 重排链表](leetcode/143.md)
-- [209. 长度最小的子数组](leetcode/209.md)
-- [713. 乘积小于 K 的子数组](leetcode/713.md)
-- [3. 无重复字符的最长子串](leetcode/3.md)
 - [19. 删除链表的倒数第 N 个结点](leetcode/19.md)
 
 #### 相向双指针
@@ -104,6 +102,12 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [744. 寻找比目标字母大的最小字母](leetcode/744.md)
 - [852. 山脉数组的峰顶索引](leetcode/852.md)
 - [875. 爱吃香蕉的珂珂](leetcode/875.md)
+
+#### 滑动窗口
+
+- [209. 长度最小的子数组](leetcode/209.md)
+- [713. 乘积小于 K 的子数组](leetcode/713.md)
+- [3. 无重复字符的最长子串](leetcode/3.md)
 
 #### 哈希表
 
