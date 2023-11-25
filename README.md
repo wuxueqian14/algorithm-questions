@@ -47,9 +47,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 链表
 
-- [82. Remove Duplicates from Sorted List II](leetcode/82.md)
-- [83. Remove Duplicates from Sorted List](leetcode/83.md)
-- [203. Remove Linked List Elements](leetcode/203.md)
+- [82. 删除排序链表中的重复元素 II](leetcode/82.md)
+- [83. 删除排序链表中的重复元素](leetcode/83.md)
+- [203. 移除链表元素](leetcode/203.md)
 - [237. Delete Node in a Linked List](leetcode/237.md)
 - [61. Rotate List](leetcode/61.md)
 - [206. Reverse Linked List](leetcode/206.md)
