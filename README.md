@@ -58,11 +58,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [21. 合并两个有序链表](leetcode/21.md)
 - [445. 两数相加 II](leetcode/445.md)
 - [725. 分隔链表](leetcode/725.md)
-- [86. Partition List](leetcode/86.md)
-- [147. Insertion Sort List](leetcode/147.md)
+- [86. 分隔链表](leetcode/86.md)
+- [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
-- [707. Design Linked List](leetcode/707.md)
-- [24. Swap Nodes in Pairs](leetcode/24.md)
+- [707. 计链表](leetcode/707.md)
+- [24. 两两交换链表中的节点](leetcode/24.md)
 
 #### 双指针
 
