@@ -16,7 +16,6 @@
       - [同向双指针](#同向双指针)
       - [相向双指针](#相向双指针)
       - [二分查找](#二分查找)
-      - [滑动窗口](#滑动窗口)
       - [哈希表](#哈希表)
       - [字符串](#字符串)
       - [堆和栈](#堆和栈)
@@ -42,7 +41,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 数组
 
-- [59. Spiral Matrix II](leetcode/59.md)
+- [59. 螺旋矩阵 II](leetcode/59.md)
 - [54. Spiral Matrix](leetcode/54.md)
 
 #### 链表
@@ -85,6 +84,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [11. 盛最多水的容器](leetcode/11.md)
 - [42. 接雨水](leetcode/42.md)
 - [76. 最小覆盖子串](leetcode/76.md)
+- [209. 长度最小的子数组](leetcode/209.md)
+- [713. 乘积小于 K 的子数组](leetcode/713.md)
+- [3. 无重复字符的最长子串](leetcode/3.md)
 
 #### 二分查找
 
@@ -102,12 +104,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [744. 寻找比目标字母大的最小字母](leetcode/744.md)
 - [852. 山脉数组的峰顶索引](leetcode/852.md)
 - [875. 爱吃香蕉的珂珂](leetcode/875.md)
-
-#### 滑动窗口
-
-- [209. 长度最小的子数组](leetcode/209.md)
-- [713. 乘积小于 K 的子数组](leetcode/713.md)
-- [3. 无重复字符的最长子串](leetcode/3.md)
 
 #### 哈希表
 
