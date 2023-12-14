@@ -42,7 +42,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 #### 数组
 
 - [59. 螺旋矩阵 II](leetcode/59.md)
-- [54. Spiral Matrix](leetcode/54.md)
+- [54. 螺旋矩阵](leetcode/54.md)
 
 #### 链表
 
@@ -60,8 +60,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [86. 分隔链表](leetcode/86.md)
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
-- [707. 计链表](leetcode/707.md)
+- [707. 设计链表](leetcode/707.md)
 - [24. 两两交换链表中的节点](leetcode/24.md)
+- [面试题 02.07. 链表相交](leetcode/02.07.md)
 
 #### 双指针
 
