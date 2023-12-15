@@ -108,10 +108,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 哈希表
 
-- [242. Valid Anagram](leetcode/242.md)
-- [349. Intersection of Two Arrays](leetcode/349.md)
+- [242. 有效的字母异位词](leetcode/242.md)
+- [349. 两个数组的交集](leetcode/349.md)
+- [202. 快乐数](leetcode/202.md)
 - [350. Intersection of Two Arrays II](leetcode/350.md)
-- [202. Happy Number](leetcode/202.md)
 - [1. Two Sum](leetcode/1.md)
 - [454. 4Sum II](leetcode/454.md)
 - [383. Ransom Note](leetcode/383.md)
