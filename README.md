@@ -111,10 +111,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [242. 有效的字母异位词](leetcode/242.md)
 - [349. 两个数组的交集](leetcode/349.md)
 - [202. 快乐数](leetcode/202.md)
+- [1. 两数之和](leetcode/1.md)
+- [454. 四数相加 II](leetcode/454.md)
+- [383. 赎金信](leetcode/383.md)
 - [350. Intersection of Two Arrays II](leetcode/350.md)
-- [1. Two Sum](leetcode/1.md)
-- [454. 4Sum II](leetcode/454.md)
-- [383. Ransom Note](leetcode/383.md)
 
 #### 字符串
 
