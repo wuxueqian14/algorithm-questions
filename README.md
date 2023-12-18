@@ -82,6 +82,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [167. 两数之和 II - 输入有序数组](leetcode/167.md)
 - [15. 三数之和](leetcode/15.md)
+- [18. 四数之和](leetcode/18.md)  
 - [11. 盛最多水的容器](leetcode/11.md)
 - [42. 接雨水](leetcode/42.md)
 - [76. 最小覆盖子串](leetcode/76.md)
@@ -118,8 +119,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 字符串
 
-- [344. Reverse String](leetcode/344.md)
-- [541. Reverse String II](leetcode/541.md)
+- [344. 反转字符串](leetcode/344.md)
+- [541. 反转字符串 II](leetcode/541.md)
 - [151. Reverse Words in a String](leetcode/151.md)
 - [28. Find the Index of the First Occurrence in a String](leetcode/28.md)
 - [459. Repeated Substring Pattern](leetcode/459.md)
