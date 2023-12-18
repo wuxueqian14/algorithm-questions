@@ -121,14 +121,14 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [344. 反转字符串](leetcode/344.md)
 - [541. 反转字符串 II](leetcode/541.md)
-- [151. Reverse Words in a String](leetcode/151.md)
+- [151. 反转字符串中的单词](leetcode/151.md)
 - [28. Find the Index of the First Occurrence in a String](leetcode/28.md)
 - [459. Repeated Substring Pattern](leetcode/459.md)
 
 #### 堆和栈
 
-- [232. Implement Queue using Stacks](leetcode/232.md)
-- [225. Implement Stack using Queues](leetcode/225.md)
+- [232. 用栈实现队列](leetcode/232.md)
+- [225. 用队列实现栈](leetcode/225.md)
 - [20. Valid Parentheses](leetcode/20.md)
 - [1047. Remove All Adjacent Duplicates In String](leetcode/1047.md)
 - [150. Evaluate Reverse Polish Notation](leetcode/150.md)
