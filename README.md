@@ -129,9 +129,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [232. 用栈实现队列](leetcode/232.md)
 - [225. 用队列实现栈](leetcode/225.md)
-- [20. Valid Parentheses](leetcode/20.md)
-- [1047. Remove All Adjacent Duplicates In String](leetcode/1047.md)
-- [150. Evaluate Reverse Polish Notation](leetcode/150.md)
+- [20. 有效的括号](leetcode/20.md)
+- [1047. 删除字符串中的所有相邻重复项](leetcode/1047.md)
+- [150. 逆波兰表达式求值](leetcode/150.md)
 - [239. Sliding Window Maximum](leetcode/239.md)
 - [347. Top K Frequent Elements](leetcode/347.md)
 
