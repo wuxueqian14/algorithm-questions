@@ -137,9 +137,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 二叉树
 
-- [144. Binary Tree Preorder Traversal](leetcode/144.md)
-- [94. Binary Tree Inorder Traversal](leetcode/94.md)
-- [145. Binary Tree Postorder Traversal](leetcode/145.md)
+- [144. 二叉树的前序遍历](leetcode/144.md)
+- [94. 二叉树的中序遍历](leetcode/94.md)
+- [145. 二叉树的后序遍历](leetcode/145.md)
 - [226. Invert Binary Tree](leetcode/226.md)
 
 #### 动态规划
