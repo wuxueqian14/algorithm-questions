@@ -140,6 +140,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [144. 二叉树的前序遍历](leetcode/144.md)
 - [94. 二叉树的中序遍历](leetcode/94.md)
 - [145. 二叉树的后序遍历](leetcode/145.md)
+- [102. 二叉树的层序遍历](leetcode/102.md)
+- [107. 二叉树的层序遍历 II](leetcode/107.md)
+- [199. 二叉树的右视图](leetcode/199.md)
+- [637. 二叉树的层平均值](leetcode/637.md)
 - [226. Invert Binary Tree](leetcode/226.md)
 
 #### 动态规划
