@@ -144,6 +144,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [107. 二叉树的层序遍历 II](leetcode/107.md)
 - [199. 二叉树的右视图](leetcode/199.md)
 - [637. 二叉树的层平均值](leetcode/637.md)
+- [429. N 叉树的层序遍历](leetcode/429.md)
+- [515. 在每个树行中找最大值](leetcode/515.md)
 - [226. Invert Binary Tree](leetcode/226.md)
 
 #### 动态规划
