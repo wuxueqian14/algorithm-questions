@@ -149,7 +149,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [116. 填充每个节点的下一个右侧节点指针](leetcode/116.md)
 - [104. 二叉树的最大深度](leetcode/104.md)
 - [111. 二叉树的最小深度](leetcode/111.md)
-- [226. Invert Binary Tree](leetcode/226.md)
+- [226. 翻转二叉树](leetcode/226.md)
+- [101. 对称二叉树](leetcode/101.md)
 
 #### 动态规划
 
