@@ -151,6 +151,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [111. 二叉树的最小深度](leetcode/111.md)
 - [226. 翻转二叉树](leetcode/226.md)
 - [101. 对称二叉树](leetcode/101.md)
+- [222. 完全二叉树的节点个数](leetcode/222.md)
+- [110. 平衡二叉树](leetcode/110.md)
 
 #### 动态规划
 
