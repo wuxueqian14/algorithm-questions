@@ -10,12 +10,12 @@
   - [用法](#用法)
   - [项目进展](#项目进展)
     - [Leetcode](#leetcode)
+      - [二分查找](#二分查找)
       - [数组](#数组)
       - [链表](#链表)
       - [双指针](#双指针)
       - [同向双指针](#同向双指针)
       - [相向双指针](#相向双指针)
-      - [二分查找](#二分查找)
       - [哈希表](#哈希表)
       - [字符串](#字符串)
       - [堆和栈](#堆和栈)
@@ -38,6 +38,23 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 ## 项目进展
 
 ### Leetcode
+
+#### 二分查找
+
+- [704. 二分查找](leetcode/704.md)
+- [69. x的平方根](leetcode/69.md)
+- [367. 有效的完全平方数](leetcode/367.md)
+- [34. 在排序数组中查找元素的第一个和最后一个位置](leetcode/34.md)
+- [162. 寻找峰值](leetcode/162.md)
+- [153. 寻找旋转排序数组中的最小值](leetcode/153.md)
+- [33. 搜索旋转排序数组](leetcode/33.md)
+- [35. 搜索插入位置](leetcode/35.md)
+- [278. 第一个错误的版本](leetcode/278.md)
+- [977. 有序数组的平方](leetcode/977.md)
+- [374. 猜数字大小](leetcode/374.md)
+- [744. 寻找比目标字母大的最小字母](leetcode/744.md)
+- [852. 山脉数组的峰顶索引](leetcode/852.md)
+- [875. 爱吃香蕉的珂珂](leetcode/875.md)
 
 #### 数组
 
@@ -90,22 +107,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [713. 乘积小于 K 的子数组](leetcode/713.md)
 - [3. 无重复字符的最长子串](leetcode/3.md)
 
-#### 二分查找
-
-- [704. 二分查找](leetcode/704.md)
-- [69. x的平方根](leetcode/69.md)
-- [367. 有效的完全平方数](leetcode/367.md)
-- [34. 在排序数组中查找元素的第一个和最后一个位置](leetcode/34.md)
-- [162. 寻找峰值](leetcode/162.md)
-- [153. 寻找旋转排序数组中的最小值](leetcode/153.md)
-- [33. 搜索旋转排序数组](leetcode/33.md)
-- [35. 搜索插入位置](leetcode/35.md)
-- [278. 第一个错误的版本](leetcode/278.md)
-- [977. 有序数组的平方](leetcode/977.md)
-- [374. 猜数字大小](leetcode/374.md)
-- [744. 寻找比目标字母大的最小字母](leetcode/744.md)
-- [852. 山脉数组的峰顶索引](leetcode/852.md)
-- [875. 爱吃香蕉的珂珂](leetcode/875.md)
 
 #### 哈希表
 
