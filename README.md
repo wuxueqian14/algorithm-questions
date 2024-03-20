@@ -20,6 +20,7 @@
       - [字符串](#字符串)
       - [堆和栈](#堆和栈)
       - [二叉树](#二叉树)
+    - [排序](#排序)
       - [动态规划](#动态规划)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
@@ -75,8 +76,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [445. 两数相加 II](leetcode/445.md)
 - [725. 分隔链表](leetcode/725.md)
 - [86. 分隔链表](leetcode/86.md)
-- [147. 插入排序](leetcode/147.md)
-- [148. Sort List](leetcode/148.md)
 - [707. 设计链表](leetcode/707.md)
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
@@ -154,6 +153,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [101. 对称二叉树](leetcode/101.md)
 - [222. 完全二叉树的节点个数](leetcode/222.md)
 - [110. 平衡二叉树](leetcode/110.md)
+
+### 排序
+
+- [147. 插入排序](leetcode/147.md)
+- [148. Sort List](leetcode/148.md)
 
 #### 动态规划
 
