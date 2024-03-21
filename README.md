@@ -87,7 +87,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [27. 移除元素](leetcode/27.md)
 - [26. 删除有序数组中的重复项](leetcode/26.md)
 - [283. 移动零](leetcode/283.md)
-- [844. 比较含退格的字符串](leetcode/844.md)
 - [141. 环形链表](leetcode/141.md)
 - [876. 链表的中间结点](leetcode/876.md)
 - [142. 环形链表 II](leetcode/142.md)
@@ -129,6 +128,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [232. 用栈实现队列](leetcode/232.md)
 - [225. 用队列实现栈](leetcode/225.md)
+- [844. 比较含退格的字符串](leetcode/844.md)
 - [20. 有效的括号](leetcode/20.md)
 - [1047. 删除字符串中的所有相邻重复项](leetcode/1047.md)
 - [150. 逆波兰表达式求值](leetcode/150.md)
