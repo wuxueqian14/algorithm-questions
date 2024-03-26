@@ -10,8 +10,8 @@
   - [用法](#用法)
   - [项目进展](#项目进展)
     - [Leetcode](#leetcode)
-      - [二分查找](#二分查找)
       - [数组](#数组)
+      - [二分查找](#二分查找)
       - [链表](#链表)
       - [双指针](#双指针)
       - [同向双指针](#同向双指针)
@@ -40,6 +40,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 ### Leetcode
 
+#### 数组
+
+- [59. 螺旋矩阵 II](leetcode/59.md)
+- [54. 螺旋矩阵](leetcode/54.md)
+
 #### 二分查找
 
 - [704. 二分查找](leetcode/704.md)
@@ -56,11 +61,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [744. 寻找比目标字母大的最小字母](leetcode/744.md)
 - [852. 山脉数组的峰顶索引](leetcode/852.md)
 - [875. 爱吃香蕉的珂珂](leetcode/875.md)
-
-#### 数组
-
-- [59. 螺旋矩阵 II](leetcode/59.md)
-- [54. 螺旋矩阵](leetcode/54.md)
 
 #### 链表
 
@@ -104,7 +104,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [209. 长度最小的子数组](leetcode/209.md)
 - [713. 乘积小于 K 的子数组](leetcode/713.md)
 - [3. 无重复字符的最长子串](leetcode/3.md)
-
 
 #### 哈希表
 
