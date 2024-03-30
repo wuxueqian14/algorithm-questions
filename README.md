@@ -18,7 +18,7 @@
       - [相向双指针](#相向双指针)
       - [哈希表](#哈希表)
       - [字符串](#字符串)
-      - [堆和栈](#堆和栈)
+      - [栈和队列](#栈和队列)
       - [二叉树](#二叉树)
     - [排序](#排序)
       - [动态规划](#动态规划)
@@ -123,7 +123,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [28. Find the Index of the First Occurrence in a String](leetcode/28.md)
 - [459. Repeated Substring Pattern](leetcode/459.md)
 
-#### 堆和栈
+#### 栈和队列
 
 - [232. 用栈实现队列](leetcode/232.md)
 - [225. 用队列实现栈](leetcode/225.md)
