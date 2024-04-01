@@ -114,6 +114,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [454. 四数相加 II](leetcode/454.md)
 - [383. 赎金信](leetcode/383.md)
 - [350. Intersection of Two Arrays II](leetcode/350.md)
+- [146. LRU 缓存](leetcode/146.md)
 
 #### 字符串
 
