@@ -146,7 +146,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [145. 二叉树的后序遍历](leetcode/145.md)
 - [102. 二叉树的层序遍历](leetcode/102.md)
 - [107. 二叉树的层序遍历 II](leetcode/107.md)
-  
 - [104. 二叉树的最大深度](leetcode/104.md)
 - [100. 相同的树](leetcode/100.md)
 - [101. 对称二叉树](leetcode/101.md)
@@ -162,6 +161,14 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [257. 二叉树的所有路径](leetcode/257.md)
 - [404. 左叶子之和](leetcode/404.md)
 - [513. 找树左下角的值](leetcode/513.md)
+- [112. 路径总和](leetcode/112.md)
+- [113. 路径总和 II](leetcode/113.md)
+- [106. 从中序与后序遍历序列构造二叉树](leetcode/106.md)
+- [105. 从前序与中序遍历序列构造二叉树](leetcode/105.md)
+- [654. 最大二叉树](leetcode/654.md)
+- [617. 合并二叉树](leetcode/617.md)
+- [700. 二叉搜索树中的搜索](leetcode/700.md)
+- [98. 验证二叉搜索树](leetcode/98.md)
 
 ### 排序
 
