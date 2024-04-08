@@ -20,6 +20,7 @@
       - [字符串](#字符串)
       - [栈和队列](#栈和队列)
       - [二叉树](#二叉树)
+    - [回溯](#回溯)
     - [排序](#排序)
       - [动态规划](#动态规划)
     - [剑指offer](#剑指offer)
@@ -172,6 +173,15 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [98. 验证二叉搜索树](leetcode/98.md)
 - [236. 二叉树的最近公共祖先](leetcode/236.md)
 - [701. 二叉搜索树中的插入操作](leetcode/701.md)
+- [450. 删除二叉搜索树中的节点](leetcode/450.md)
+- [669. 修剪二叉搜索树](leetcode/669.md)
+- [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
+- [538. 把二叉搜索树转换为累加树](leetcode/538.md)
+
+### 回溯
+
+- [17. 电话号码的字母组合](leetcode/17.md)
+- [131. 分割回文串](leetcode/131.md)
 
 ### 排序
 
