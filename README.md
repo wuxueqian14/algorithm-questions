@@ -181,7 +181,14 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 ### 回溯
 
 - [17. 电话号码的字母组合](leetcode/17.md)
+- [78. 子集](leetcode/78.md)
 - [131. 分割回文串](leetcode/131.md)
+- [93. 复原 IP 地址](leetcode/93.md)
+- [77. 组合](leetcode/77.md)
+- [216. 组合总和 III](leetcode/216.md)
+- [22. 括号生成](leetcode/22.md)
+- [39. 组合总和](leetcode/39.md)
+- [40. 组合总和 II](leetcode/40.md)
 
 ### 排序
 
