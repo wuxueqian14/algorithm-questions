@@ -21,6 +21,7 @@
       - [栈和队列](#栈和队列)
       - [二叉树](#二叉树)
     - [回溯](#回溯)
+    - [贪心](#贪心)
     - [排序](#排序)
       - [动态规划](#动态规划)
     - [剑指offer](#剑指offer)
@@ -189,6 +190,17 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [22. 括号生成](leetcode/22.md)
 - [39. 组合总和](leetcode/39.md)
 - [40. 组合总和 II](leetcode/40.md)
+- [46. 全排列](leetcode/46.md)
+- [47. 全排列 II](leetcode/47.md)
+- [51. N 皇后](leetcode/51.md)
+
+### 贪心
+
+- [455. 分发饼干](leetcode/445.md)
+- [376. 摆动序列](leetcode/376.md)
+- [53. 最大子数组和](leetcode/53.md)
+- [122. 买卖股票的最佳时机 II](leetcode/122.md)
+- [53. 最大子数组和](leetcode/53.md)
 
 ### 排序
 
