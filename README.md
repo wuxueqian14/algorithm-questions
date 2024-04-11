@@ -22,8 +22,9 @@
       - [二叉树](#二叉树)
     - [回溯](#回溯)
     - [贪心](#贪心)
+    - [动态规划](#动态规划)
     - [排序](#排序)
-      - [动态规划](#动态规划)
+      - [动态规划](#动态规划-1)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
   - [证书](#证书)
@@ -201,6 +202,19 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [53. 最大子数组和](leetcode/53.md)
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
 - [53. 最大子数组和](leetcode/53.md)
+- [55. 跳跃游戏](leetcode/55.md)
+- [45. 跳跃游戏 II](leetcode/45.md)
+
+### 动态规划
+
+- [509. 斐波那契数](leetcode/509.md)
+- [70. 爬楼梯](leetcode/70.md)
+- [746. 使用最小花费爬楼梯](leetcode/746.md)
+- [62. 不同路径](leetcode/62.md)
+- [63. 不同路径 II](leetcode/63.md)
+- [198. 打家劫舍](leetcode/198.md)
+- [494. 目标和](leetcode/494.md)
+- [322. 零钱兑换](leetcode/322.md)
 
 ### 排序
 
