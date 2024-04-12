@@ -23,6 +23,8 @@
     - [回溯](#回溯)
     - [贪心](#贪心)
     - [动态规划](#动态规划)
+      - [01背包](#01背包)
+      - [完全背包](#完全背包)
     - [排序](#排序)
       - [动态规划](#动态规划-1)
     - [剑指offer](#剑指offer)
@@ -213,8 +215,18 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [62. 不同路径](leetcode/62.md)
 - [63. 不同路径 II](leetcode/63.md)
 - [198. 打家劫舍](leetcode/198.md)
+
+#### 01背包
+
 - [494. 目标和](leetcode/494.md)
+- [416. 分割等和子集](leetcode/416.md)
+- [1049. 最后一块石头的重量 II](leetcode/1049.md)
+- [474. 一和零](leetcode/474.md)
+
+#### 完全背包
+
 - [322. 零钱兑换](leetcode/322.md)
+- [343. 整数拆分](leetcode/343.md)
 
 ### 排序
 
