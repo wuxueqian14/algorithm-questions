@@ -25,6 +25,7 @@
     - [动态规划](#动态规划)
       - [01背包](#01背包)
       - [完全背包](#完全背包)
+      - [线性DP](#线性dp)
     - [排序](#排序)
       - [动态规划](#动态规划-1)
     - [剑指offer](#剑指offer)
@@ -202,6 +203,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [455. 分发饼干](leetcode/445.md)
 - [376. 摆动序列](leetcode/376.md)
 - [53. 最大子数组和](leetcode/53.md)
+- [121. 买卖股票的最佳时机](leetcode/121.md)
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
 - [53. 最大子数组和](leetcode/53.md)
 - [55. 跳跃游戏](leetcode/55.md)
@@ -214,7 +216,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [746. 使用最小花费爬楼梯](leetcode/746.md)
 - [62. 不同路径](leetcode/62.md)
 - [63. 不同路径 II](leetcode/63.md)
+- [377. 组合总和 Ⅳ](leetcode/377.md)
 - [198. 打家劫舍](leetcode/198.md)
+- [213. 打家劫舍 II](leetcode/213.md)
+- [337. 打家劫舍 III](leetcode/337.md)
 
 #### 01背包
 
@@ -225,8 +230,13 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 #### 完全背包
 
+- [518. 零钱兑换 II](leetcode/518.md)
 - [322. 零钱兑换](leetcode/322.md)
 - [343. 整数拆分](leetcode/343.md)
+  
+#### 线性DP
+
+- [1143. 最长公共子序列](leetcode/1143.md)
 
 ### 排序
 
