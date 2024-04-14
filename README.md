@@ -237,6 +237,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 #### 线性DP
 
 - [1143. 最长公共子序列](leetcode/1143.md)
+- [72. 编辑距离](leetcode/72.md)
+- [300. 最长递增子序列](leetcode/300.md)
+- [5. 最长回文子串](leetcode/5.md)
 
 ### 排序
 
