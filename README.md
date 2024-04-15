@@ -20,14 +20,16 @@
       - [字符串](#字符串)
       - [栈和队列](#栈和队列)
       - [二叉树](#二叉树)
-    - [回溯](#回溯)
-    - [贪心](#贪心)
-    - [动态规划](#动态规划)
-      - [01背包](#01背包)
-      - [完全背包](#完全背包)
-      - [线性DP](#线性dp)
-    - [排序](#排序)
-      - [动态规划](#动态规划-1)
+      - [DFS](#dfs)
+      - [回溯](#回溯)
+      - [贪心](#贪心)
+      - [动态规划](#动态规划)
+        - [01背包](#01背包)
+        - [完全背包](#完全背包)
+        - [线性DP](#线性dp)
+        - [状态机DP](#状态机dp)
+      - [排序](#排序)
+      - [前后缀](#前后缀)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
   - [证书](#证书)
@@ -79,6 +81,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [92. 反转链表 II](leetcode/92.md)
 - [2. 两数相加](leetcode/2.md)
 - [21. 合并两个有序链表](leetcode/21.md)
+- [160. 相交链表](leetcode/160.md)
 - [445. 两数相加 II](leetcode/445.md)
 - [725. 分隔链表](leetcode/725.md)
 - [86. 分隔链表](leetcode/86.md)
@@ -105,7 +108,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [15. 三数之和](leetcode/15.md)
 - [18. 四数之和](leetcode/18.md)  
 - [11. 盛最多水的容器](leetcode/11.md)
-- [42. 接雨水](leetcode/42.md)
 - [76. 最小覆盖子串](leetcode/76.md)
 - [209. 长度最小的子数组](leetcode/209.md)
 - [713. 乘积小于 K 的子数组](leetcode/713.md)
@@ -183,7 +185,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
 - [538. 把二叉搜索树转换为累加树](leetcode/538.md)
 
-### 回溯
+#### DFS
+
+- [200. 岛屿数量](leetcode/200.md)
+
+#### 回溯
 
 - [17. 电话号码的字母组合](leetcode/17.md)
 - [78. 子集](leetcode/78.md)
@@ -198,7 +204,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [47. 全排列 II](leetcode/47.md)
 - [51. N 皇后](leetcode/51.md)
 
-### 贪心
+#### 贪心
 
 - [455. 分发饼干](leetcode/445.md)
 - [376. 摆动序列](leetcode/376.md)
@@ -209,7 +215,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [55. 跳跃游戏](leetcode/55.md)
 - [45. 跳跃游戏 II](leetcode/45.md)
 
-### 动态规划
+#### 动态规划
 
 - [509. 斐波那契数](leetcode/509.md)
 - [70. 爬楼梯](leetcode/70.md)
@@ -220,35 +226,41 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [198. 打家劫舍](leetcode/198.md)
 - [213. 打家劫舍 II](leetcode/213.md)
 - [337. 打家劫舍 III](leetcode/337.md)
+- [1014. Best Sightseeing Pair](leetcode/1014.md)
 
-#### 01背包
+##### 01背包
 
 - [494. 目标和](leetcode/494.md)
 - [416. 分割等和子集](leetcode/416.md)
 - [1049. 最后一块石头的重量 II](leetcode/1049.md)
 - [474. 一和零](leetcode/474.md)
 
-#### 完全背包
+##### 完全背包
 
 - [518. 零钱兑换 II](leetcode/518.md)
 - [322. 零钱兑换](leetcode/322.md)
 - [343. 整数拆分](leetcode/343.md)
   
-#### 线性DP
+##### 线性DP
 
 - [1143. 最长公共子序列](leetcode/1143.md)
 - [72. 编辑距离](leetcode/72.md)
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
 
-### 排序
+##### 状态机DP
+
+- [122. 买卖股票的最佳时机 II](leetcode/122.md)
+- [309. 买卖股票的最佳时机含冷冻期](leetcode/309.md)
+
+#### 排序
 
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
 
-#### 动态规划
+#### 前后缀
 
-- [1014. Best Sightseeing Pair](leetcode/1014.md)
+- [42. 接雨水](leetcode/42.md)
 
 ### 剑指offer
 
