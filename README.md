@@ -28,8 +28,8 @@
         - [完全背包](#完全背包)
         - [线性DP](#线性dp)
         - [状态机DP](#状态机dp)
+      - [单调栈](#单调栈)
       - [排序](#排序)
-      - [前后缀](#前后缀)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
   - [证书](#证书)
@@ -251,16 +251,22 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 ##### 状态机DP
 
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
+- [714. 买卖股票的最佳时机含手续费](leetcode/714.md)
 - [309. 买卖股票的最佳时机含冷冻期](leetcode/309.md)
+- [188. 买卖股票的最佳时机 IV](leetcode/188.md)
+- [123. 买卖股票的最佳时机 III](leetcode/123.md)
+
+#### 单调栈
+
+- [739. 每日温度](leetcode/739.md)
+- [42. 接雨水](leetcode/42.md)
+- [1475. 商品折扣后的最终价格](leetcode/1475.md)
 
 #### 排序
 
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
 
-#### 前后缀
-
-- [42. 接雨水](leetcode/42.md)
 
 ### 剑指offer
 
