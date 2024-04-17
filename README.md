@@ -29,6 +29,7 @@
         - [线性DP](#线性dp)
         - [状态机DP](#状态机dp)
       - [单调栈](#单调栈)
+      - [单调队列](#单调队列)
       - [排序](#排序)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
@@ -142,7 +143,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [150. 逆波兰表达式求值](leetcode/150.md)
 - [703. 数据流中的第 K 大元素](leetcode/703.md)
 - [973. 最接近原点的 K 个点](leetcode/973.md)
-- [239. Sliding Window Maximum](leetcode/239.md)
 - [347. Top K Frequent Elements](leetcode/347.md)
 - [4. 寻找两个正序数组的中位数](leetcode/4.md)
 - [295. 数据流的中位数](leetcode/295.md)
@@ -261,11 +261,19 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [739. 每日温度](leetcode/739.md)
 - [42. 接雨水](leetcode/42.md)
 - [1475. 商品折扣后的最终价格](leetcode/1475.md)
+- [901. 股票价格跨度](leetcode/901.md)
+- [1019. 链表中的下一个更大节点](leetcode/1019.md)
+- [1944. 队列中可以看到的人数](leetcode/1944.md)
+
+#### 单调队列
+
+- [239. Sliding Window Maximum](leetcode/239.md)
 
 #### 排序
 
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
+- [56. 合并区间](leetcode/56.md)
 
 
 ### 剑指offer
