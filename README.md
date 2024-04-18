@@ -102,6 +102,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [142. 环形链表 II](leetcode/142.md)
 - [143. 重排链表](leetcode/143.md)
 - [19. 删除链表的倒数第 N 个结点](leetcode/19.md)
+- [4. 寻找两个正序数组的中位数](leetcode/4.md)
 
 #### 相向双指针
 
@@ -144,7 +145,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [703. 数据流中的第 K 大元素](leetcode/703.md)
 - [973. 最接近原点的 K 个点](leetcode/973.md)
 - [347. Top K Frequent Elements](leetcode/347.md)
-- [4. 寻找两个正序数组的中位数](leetcode/4.md)
 - [295. 数据流的中位数](leetcode/295.md)
 
 #### 二叉树
@@ -274,7 +274,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
 - [56. 合并区间](leetcode/56.md)
-
+- [31. 下一个排列](leetcode/31.md)
 
 ### 剑指offer
 
