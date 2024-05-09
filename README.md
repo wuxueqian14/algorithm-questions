@@ -53,6 +53,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [59. 螺旋矩阵 II](leetcode/59.md)
 - [54. 螺旋矩阵](leetcode/54.md)
+- [48. 旋转图像](leetcode/48.md)
+- [240. 搜索二维矩阵 II](leetcode/240.md)
 
 #### 二分查找
 
@@ -89,6 +91,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [707. 设计链表](leetcode/707.md)
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
+- [234. 回文链表](leetcode/234.md)
 
 #### 双指针
 
@@ -125,6 +128,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [383. 赎金信](leetcode/383.md)
 - [350. Intersection of Two Arrays II](leetcode/350.md)
 - [146. LRU 缓存](leetcode/146.md)
+- [128. 最长连续序列](leetcode/128.md)
 
 #### 字符串
 
@@ -146,6 +150,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [973. 最接近原点的 K 个点](leetcode/973.md)
 - [347. Top K Frequent Elements](leetcode/347.md)
 - [295. 数据流的中位数](leetcode/295.md)
+- [155. 最小栈](leetcode/155.md)
 
 #### 二叉树
 
@@ -222,6 +227,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [746. 使用最小花费爬楼梯](leetcode/746.md)
 - [62. 不同路径](leetcode/62.md)
 - [63. 不同路径 II](leetcode/63.md)
+- [64. 最小路径和](leetcode/64.md)
 - [377. 组合总和 Ⅳ](leetcode/377.md)
 - [198. 打家劫舍](leetcode/198.md)
 - [213. 打家劫舍 II](leetcode/213.md)
@@ -275,6 +281,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [148. Sort List](leetcode/148.md)
 - [56. 合并区间](leetcode/56.md)
 - [31. 下一个排列](leetcode/31.md)
+- [215. 数组中的第K个最大元素](leetcode/215.md)
 
 ### 剑指offer
 
