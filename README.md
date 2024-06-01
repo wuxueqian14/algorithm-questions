@@ -117,6 +117,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [209. 长度最小的子数组](leetcode/209.md)
 - [713. 乘积小于 K 的子数组](leetcode/713.md)
 - [3. 无重复字符的最长子串](leetcode/3.md)
+- [88. 合并两个有序数组](leetcode/88.md)
 
 #### 哈希表
 
@@ -213,10 +214,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [455. 分发饼干](leetcode/445.md)
 - [376. 摆动序列](leetcode/376.md)
-- [53. 最大子数组和](leetcode/53.md)
-- [121. 买卖股票的最佳时机](leetcode/121.md)
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
-- [53. 最大子数组和](leetcode/53.md)
 - [55. 跳跃游戏](leetcode/55.md)
 - [45. 跳跃游戏 II](leetcode/45.md)
 
@@ -233,6 +231,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [213. 打家劫舍 II](leetcode/213.md)
 - [337. 打家劫舍 III](leetcode/337.md)
 - [1014. Best Sightseeing Pair](leetcode/1014.md)
+- [53. 最大子数组和](leetcode/53.md)
 
 ##### 01背包
 
@@ -261,6 +260,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [309. 买卖股票的最佳时机含冷冻期](leetcode/309.md)
 - [188. 买卖股票的最佳时机 IV](leetcode/188.md)
 - [123. 买卖股票的最佳时机 III](leetcode/123.md)
+- [121. 买卖股票的最佳时机](leetcode/121.md)
 
 #### 单调栈
 
@@ -282,6 +282,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [56. 合并区间](leetcode/56.md)
 - [31. 下一个排列](leetcode/31.md)
 - [215. 数组中的第K个最大元素](leetcode/215.md)
+- [912. 排序数组](leetcode/912.md)
 
 ### 剑指offer
 
