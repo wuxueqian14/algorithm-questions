@@ -91,7 +91,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [707. 设计链表](leetcode/707.md)
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
-- [234. 回文链表](leetcode/234.md)
 
 #### 双指针
 
@@ -106,6 +105,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [143. 重排链表](leetcode/143.md)
 - [19. 删除链表的倒数第 N 个结点](leetcode/19.md)
 - [4. 寻找两个正序数组的中位数](leetcode/4.md)
+- [234. 回文链表](leetcode/234.md)
 
 #### 相向双指针
 
@@ -130,6 +130,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [350. Intersection of Two Arrays II](leetcode/350.md)
 - [146. LRU 缓存](leetcode/146.md)
 - [128. 最长连续序列](leetcode/128.md)
+- [169. 多数元素](leetcode/169.md)
 
 #### 字符串
 
@@ -152,6 +153,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [347. Top K Frequent Elements](leetcode/347.md)
 - [295. 数据流的中位数](leetcode/295.md)
 - [155. 最小栈](leetcode/155.md)
+- [394. 字符串解码](leetcode/394.md)
 
 #### 二叉树
 
@@ -232,6 +234,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [337. 打家劫舍 III](leetcode/337.md)
 - [1014. Best Sightseeing Pair](leetcode/1014.md)
 - [53. 最大子数组和](leetcode/53.md)
+- [221. 最大正方形](leetcode/221.md)
 
 ##### 01背包
 
