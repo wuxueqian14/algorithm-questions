@@ -31,6 +31,7 @@
       - [单调栈](#单调栈)
       - [单调队列](#单调队列)
       - [排序](#排序)
+      - [逻辑](#逻辑)
     - [剑指offer](#剑指offer)
   - [维护者](#维护者)
   - [证书](#证书)
@@ -286,6 +287,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [31. 下一个排列](leetcode/31.md)
 - [215. 数组中的第K个最大元素](leetcode/215.md)
 - [912. 排序数组](leetcode/912.md)
+
+#### 逻辑
+
+- [136. 只出现一次的数字](leetcode/136.md)
+- [75. 颜色分类](leetcode/75.md)
 
 ### 剑指offer
 
