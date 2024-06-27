@@ -9,30 +9,29 @@
   - [下载](#下载)
   - [用法](#用法)
   - [项目进展](#项目进展)
-    - [Leetcode](#leetcode)
-      - [数组](#数组)
-      - [二分查找](#二分查找)
-      - [链表](#链表)
-      - [双指针](#双指针)
+  - [Leetcode](#leetcode)
+    - [数组](#数组)
+    - [二分查找](#二分查找)
+    - [链表](#链表)
+    - [双指针](#双指针)
       - [同向双指针](#同向双指针)
       - [相向双指针](#相向双指针)
-      - [哈希表](#哈希表)
-      - [字符串](#字符串)
-      - [栈和队列](#栈和队列)
-      - [二叉树](#二叉树)
-      - [DFS](#dfs)
-      - [回溯](#回溯)
-      - [贪心](#贪心)
-      - [动态规划](#动态规划)
-        - [01背包](#01背包)
-        - [完全背包](#完全背包)
-        - [线性DP](#线性dp)
-        - [状态机DP](#状态机dp)
-      - [单调栈](#单调栈)
-      - [单调队列](#单调队列)
-      - [排序](#排序)
-      - [逻辑](#逻辑)
-    - [剑指offer](#剑指offer)
+    - [哈希表](#哈希表)
+    - [字符串](#字符串)
+    - [栈和队列](#栈和队列)
+    - [二叉树](#二叉树)
+    - [DFS](#dfs)
+    - [回溯](#回溯)
+    - [贪心](#贪心)
+    - [动态规划](#动态规划)
+      - [01背包](#01背包)
+      - [完全背包](#完全背包)
+      - [线性DP](#线性dp)
+      - [状态机DP](#状态机dp)
+    - [单调栈](#单调栈)
+    - [单调队列](#单调队列)
+    - [排序](#排序)
+    - [逻辑](#逻辑)
   - [维护者](#维护者)
   - [证书](#证书)
 
@@ -48,16 +47,16 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 ## 项目进展
 
-### Leetcode
+## Leetcode
 
-#### 数组
+### 数组
 
 - [59. 螺旋矩阵 II](leetcode/59.md)
 - [54. 螺旋矩阵](leetcode/54.md)
 - [48. 旋转图像](leetcode/48.md)
 - [240. 搜索二维矩阵 II](leetcode/240.md)
 
-#### 二分查找
+### 二分查找
 
 - [704. 二分查找](leetcode/704.md)
 - [69. x的平方根](leetcode/69.md)
@@ -74,7 +73,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [852. 山脉数组的峰顶索引](leetcode/852.md)
 - [875. 爱吃香蕉的珂珂](leetcode/875.md)
 
-#### 链表
+### 链表
 
 - [82. 删除排序链表中的重复元素 II](leetcode/82.md)
 - [83. 删除排序链表中的重复元素](leetcode/83.md)
@@ -93,7 +92,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
 
-#### 双指针
+### 双指针
 
 #### 同向双指针
 
@@ -107,6 +106,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [19. 删除链表的倒数第 N 个结点](leetcode/19.md)
 - [4. 寻找两个正序数组的中位数](leetcode/4.md)
 - [234. 回文链表](leetcode/234.md)
+- [524. 通过删除字母匹配到字典里最长单词](leetcode/524.md)
+- [392. 判断子序列](leetcode/392.md)
 
 #### 相向双指针
 
@@ -119,8 +120,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [713. 乘积小于 K 的子数组](leetcode/713.md)
 - [3. 无重复字符的最长子串](leetcode/3.md)
 - [88. 合并两个有序数组](leetcode/88.md)
+- [633. 平方数之和](leetcode/633.md)
+- [345. 反转字符串中的元音字母](leetcode/345.md)
+- [680. 验证回文串 II](leetcode/680.md)
 
-#### 哈希表
+### 哈希表
 
 - [242. 有效的字母异位词](leetcode/242.md)
 - [349. 两个数组的交集](leetcode/349.md)
@@ -133,7 +137,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [128. 最长连续序列](leetcode/128.md)
 - [169. 多数元素](leetcode/169.md)
 
-#### 字符串
+### 字符串
 
 - [344. 反转字符串](leetcode/344.md)
 - [541. 反转字符串 II](leetcode/541.md)
@@ -141,7 +145,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [28. Find the Index of the First Occurrence in a String](leetcode/28.md)
 - [459. Repeated Substring Pattern](leetcode/459.md)
 
-#### 栈和队列
+### 栈和队列
 
 - [232. 用栈实现队列](leetcode/232.md)
 - [225. 用队列实现栈](leetcode/225.md)
@@ -156,7 +160,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [155. 最小栈](leetcode/155.md)
 - [394. 字符串解码](leetcode/394.md)
 
-#### 二叉树
+### 二叉树
 
 - [144. 二叉树的前序遍历](leetcode/144.md)
 - [94. 二叉树的中序遍历](leetcode/94.md)
@@ -194,11 +198,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
 - [538. 把二叉搜索树转换为累加树](leetcode/538.md)
 
-#### DFS
+### DFS
 
 - [200. 岛屿数量](leetcode/200.md)
 
-#### 回溯
+### 回溯
 
 - [17. 电话号码的字母组合](leetcode/17.md)
 - [78. 子集](leetcode/78.md)
@@ -213,15 +217,19 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [47. 全排列 II](leetcode/47.md)
 - [51. N 皇后](leetcode/51.md)
 
-#### 贪心
+### 贪心
 
 - [455. 分发饼干](leetcode/445.md)
 - [376. 摆动序列](leetcode/376.md)
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
 - [55. 跳跃游戏](leetcode/55.md)
 - [45. 跳跃游戏 II](leetcode/45.md)
+- [435. 无重叠区间](leetcode/435.md)
+- [452. 用最少数量的箭引爆气球](leetcode/452.md)
+- [406. 根据身高重建队列](leetcode/406.md)
+- [7. 种植花朵](leetcode/7.md)
 
-#### 动态规划
+### 动态规划
 
 - [509. 斐波那契数](leetcode/509.md)
 - [70. 爬楼梯](leetcode/70.md)
@@ -237,27 +245,27 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [53. 最大子数组和](leetcode/53.md)
 - [221. 最大正方形](leetcode/221.md)
 
-##### 01背包
+#### 01背包
 
 - [494. 目标和](leetcode/494.md)
 - [416. 分割等和子集](leetcode/416.md)
 - [1049. 最后一块石头的重量 II](leetcode/1049.md)
 - [474. 一和零](leetcode/474.md)
 
-##### 完全背包
+#### 完全背包
 
 - [518. 零钱兑换 II](leetcode/518.md)
 - [322. 零钱兑换](leetcode/322.md)
 - [343. 整数拆分](leetcode/343.md)
   
-##### 线性DP
+#### 线性DP
 
 - [1143. 最长公共子序列](leetcode/1143.md)
 - [72. 编辑距离](leetcode/72.md)
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
 
-##### 状态机DP
+#### 状态机DP
 
 - [122. 买卖股票的最佳时机 II](leetcode/122.md)
 - [714. 买卖股票的最佳时机含手续费](leetcode/714.md)
@@ -266,7 +274,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [123. 买卖股票的最佳时机 III](leetcode/123.md)
 - [121. 买卖股票的最佳时机](leetcode/121.md)
 
-#### 单调栈
+### 单调栈
 
 - [739. 每日温度](leetcode/739.md)
 - [42. 接雨水](leetcode/42.md)
@@ -275,11 +283,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [1019. 链表中的下一个更大节点](leetcode/1019.md)
 - [1944. 队列中可以看到的人数](leetcode/1944.md)
 
-#### 单调队列
+### 单调队列
 
 - [239. Sliding Window Maximum](leetcode/239.md)
 
-#### 排序
+### 排序
 
 - [147. 插入排序](leetcode/147.md)
 - [148. Sort List](leetcode/148.md)
@@ -287,17 +295,12 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [31. 下一个排列](leetcode/31.md)
 - [215. 数组中的第K个最大元素](leetcode/215.md)
 - [912. 排序数组](leetcode/912.md)
-
-#### 逻辑
-
-- [136. 只出现一次的数字](leetcode/136.md)
+- [451. 根据字符出现频率排序](leetcode/451.md)
 - [75. 颜色分类](leetcode/75.md)
 
-### 剑指offer
+### 逻辑
 
-- [29. 顺时针打印矩阵](p2offer/29.md)
-- [05. 替换空格](p2offer/5.md)
-- [58 - II. 左旋转字符串](p2offer/58II.md)
+- [136. 只出现一次的数字](leetcode/136.md)
 
 ## 维护者
 
