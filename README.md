@@ -32,6 +32,7 @@
     - [单调队列](#单调队列)
     - [排序](#排序)
     - [逻辑](#逻辑)
+    - [模拟](#模拟)
   - [维护者](#维护者)
   - [证书](#证书)
 
@@ -228,6 +229,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [452. 用最少数量的箭引爆气球](leetcode/452.md)
 - [406. 根据身高重建队列](leetcode/406.md)
 - [7. 种植花朵](leetcode/7.md)
+- [665. 非递减数列](leetcode/665.md)
+- [763. 划分字母区间](leetcode/736.md)
 
 ### 动态规划
 
@@ -301,6 +304,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 ### 逻辑
 
 - [136. 只出现一次的数字](leetcode/136.md)
+
+### 模拟
+
+- [57. 插入区间](leetcode/57.md)
 
 ## 维护者
 
