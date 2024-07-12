@@ -109,6 +109,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [234. 回文链表](leetcode/234.md)
 - [524. 通过删除字母匹配到字典里最长单词](leetcode/524.md)
 - [392. 判断子序列](leetcode/392.md)
+- [438. 找到字符串中所有字母异位词](leetcode/438.md)
+- [209. 长度最小的子数组](leetcode/209.md)
+- [713. 乘积小于 K 的子数组](leetcode/713.md)
+- [76. 最小覆盖子串](leetcode/76.md)
+- [3. 无重复字符的最长子串](leetcode/3.md)
 
 #### 相向双指针
 
@@ -116,10 +121,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [15. 三数之和](leetcode/15.md)
 - [18. 四数之和](leetcode/18.md)  
 - [11. 盛最多水的容器](leetcode/11.md)
-- [76. 最小覆盖子串](leetcode/76.md)
-- [209. 长度最小的子数组](leetcode/209.md)
-- [713. 乘积小于 K 的子数组](leetcode/713.md)
-- [3. 无重复字符的最长子串](leetcode/3.md)
 - [88. 合并两个有序数组](leetcode/88.md)
 - [633. 平方数之和](leetcode/633.md)
 - [345. 反转字符串中的元音字母](leetcode/345.md)
