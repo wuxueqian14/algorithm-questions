@@ -56,6 +56,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [54. 螺旋矩阵](leetcode/54.md)
 - [48. 旋转图像](leetcode/48.md)
 - [240. 搜索二维矩阵 II](leetcode/240.md)
+- [560. 和为 K 的子数组](leetcode/560.md)
+- [189. 轮转数组](leetcode/189.md)
+- [238. 除自身以外数组的乘积](leetcode/238.md)
+- [41. 缺失的第一个正数](leetcode/41.md)
 
 ### 二分查找
 
