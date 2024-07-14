@@ -60,6 +60,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [189. 轮转数组](leetcode/189.md)
 - [238. 除自身以外数组的乘积](leetcode/238.md)
 - [41. 缺失的第一个正数](leetcode/41.md)
+- [73. 矩阵置零](leetcode/73.md)
 
 ### 二分查找
 
