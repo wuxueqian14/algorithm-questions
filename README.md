@@ -292,6 +292,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [901. 股票价格跨度](leetcode/901.md)
 - [1019. 链表中的下一个更大节点](leetcode/1019.md)
 - [1944. 队列中可以看到的人数](leetcode/1944.md)
+- [496. 下一个更大元素 I](leetcode/496.md)
+- [503. 下一个更大元素 II](leetcode/503.md)
+- [84. 柱状图中最大的矩形](leetcode/84.md)
 
 ### 单调队列
 
