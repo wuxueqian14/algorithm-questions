@@ -97,6 +97,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [707. 设计链表](leetcode/707.md)
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
+- [25. K 个一组翻转链表](leetcode/25.md)
 
 ### 双指针
 
