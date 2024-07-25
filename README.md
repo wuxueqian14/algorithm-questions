@@ -98,6 +98,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [24. 两两交换链表中的节点](leetcode/24.md)
 - [面试题 02.07. 链表相交](leetcode/02.07.md)
 - [25. K 个一组翻转链表](leetcode/25.md)
+- [23. 合并 K 个升序链表](leetcode/23.md)
 
 ### 双指针
 
@@ -206,6 +207,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [669. 修剪二叉搜索树](leetcode/669.md)
 - [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
 - [538. 把二叉搜索树转换为累加树](leetcode/538.md)
+- [530. 二叉搜索树的最小绝对差](leetcode/530.md)
 
 ### DFS
 
