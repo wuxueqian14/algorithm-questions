@@ -28,6 +28,7 @@
       - [完全背包](#完全背包)
       - [线性DP](#线性dp)
       - [状态机DP](#状态机dp)
+      - [树状DP](#树状dp)
     - [单调栈](#单调栈)
     - [单调队列](#单调队列)
     - [排序](#排序)
@@ -208,7 +209,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
 - [538. 把二叉搜索树转换为累加树](leetcode/538.md)
 - [530. 二叉搜索树的最小绝对差](leetcode/530.md)
-- [543. 二叉树的直径](leetcode/543.md)
 
 ### DFS
 
@@ -287,6 +287,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [188. 买卖股票的最佳时机 IV](leetcode/188.md)
 - [123. 买卖股票的最佳时机 III](leetcode/123.md)
 - [121. 买卖股票的最佳时机](leetcode/121.md)
+
+#### 树状DP
+
+- [543. 二叉树的直径](leetcode/543.md)
+- [124. 二叉树中的最大路径和](leetcode/124.md)
 
 ### 单调栈
 
