@@ -209,10 +209,13 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [108. 将有序数组转换为二叉搜索树](leetcode/108.md)
 - [538. 把二叉搜索树转换为累加树](leetcode/538.md)
 - [530. 二叉搜索树的最小绝对差](leetcode/530.md)
+- [230. 二叉搜索树中第K小的元素](leetcode/230.md)
+- [208. 实现 Trie (前缀树)](leetcode/208.md)
 
 ### DFS
 
 - [200. 岛屿数量](leetcode/200.md)
+- [695. 岛屿的最大面积](leetcode/695.md)
 
 ### 回溯
 
