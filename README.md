@@ -216,6 +216,10 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [200. 岛屿数量](leetcode/200.md)
 - [695. 岛屿的最大面积](leetcode/695.md)
+- [463. 岛屿的周长](leetcode/463.md)
+- [1020. 飞地的数量](leetcode/1020.md)
+- [130. 被围绕的区域](leetcode/130.md)
+- [417. 太平洋大西洋水流问题](leetcode/417.md)
 
 ### 回溯
 
