@@ -21,6 +21,7 @@
     - [栈和队列](#栈和队列)
     - [二叉树](#二叉树)
     - [DFS](#dfs)
+    - [BFS](#bfs)
     - [回溯](#回溯)
     - [贪心](#贪心)
     - [动态规划](#动态规划)
@@ -220,6 +221,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [1020. 飞地的数量](leetcode/1020.md)
 - [130. 被围绕的区域](leetcode/130.md)
 - [417. 太平洋大西洋水流问题](leetcode/417.md)
+- [841. 钥匙和房间](leetcode/841.md)
+
+### BFS
+
+- [994. 腐烂的橘子](leetcode/994.md)
 
 ### 回溯
 
