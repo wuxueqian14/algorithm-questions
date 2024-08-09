@@ -241,6 +241,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [46. 全排列](leetcode/46.md)
 - [47. 全排列 II](leetcode/47.md)
 - [51. N 皇后](leetcode/51.md)
+- [491. 非递减子序列](leetcode/491.md)
 
 ### 贪心
 
