@@ -258,6 +258,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [7. 种植花朵](leetcode/7.md)
 - [665. 非递减数列](leetcode/665.md)
 - [763. 划分字母区间](leetcode/736.md)
+- [134. 加油站](leetcode/134.md)
+- [135. 分发糖果](leetcode/135.md)
+- [860. 柠檬水找零](leetcode/860.md)
 
 ### 动态规划
 
