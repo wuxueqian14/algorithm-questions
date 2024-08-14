@@ -257,10 +257,11 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [406. 根据身高重建队列](leetcode/406.md)
 - [7. 种植花朵](leetcode/7.md)
 - [665. 非递减数列](leetcode/665.md)
-- [763. 划分字母区间](leetcode/736.md)
+- [763. 划分字母区间](leetcode/763.md)
 - [134. 加油站](leetcode/134.md)
 - [135. 分发糖果](leetcode/135.md)
 - [860. 柠檬水找零](leetcode/860.md)
+- [738. 单调递增的数字](leetcode/738.md)
 
 ### 动态规划
 
@@ -297,6 +298,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [72. 编辑距离](leetcode/72.md)
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
+- [674. 最长连续递增序列](leetcode/674.md)
 
 #### 状态机DP
 
