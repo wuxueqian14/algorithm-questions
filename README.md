@@ -299,6 +299,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
 - [674. 最长连续递增序列](leetcode/674.md)
+- [718. 最长重复子数组](leetcode/718.md)
 
 #### 状态机DP
 
