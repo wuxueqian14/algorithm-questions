@@ -278,6 +278,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [1014. Best Sightseeing Pair](leetcode/1014.md)
 - [53. 最大子数组和](leetcode/53.md)
 - [221. 最大正方形](leetcode/221.md)
+- [115. 不同的子序列](leetcode/115.md)
 
 #### 01背包
 
@@ -298,6 +299,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [72. 编辑距离](leetcode/72.md)
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
+- [647. 回文子串](leetcode/647.md)
 - [674. 最长连续递增序列](leetcode/674.md)
 - [718. 最长重复子数组](leetcode/718.md)
 
