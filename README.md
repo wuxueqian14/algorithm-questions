@@ -280,6 +280,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [53. 最大子数组和](leetcode/53.md)
 - [221. 最大正方形](leetcode/221.md)
 - [115. 不同的子序列](leetcode/115.md)
+- [343. 整数拆分](leetcode/343.md)
 
 #### 01背包
 
@@ -292,7 +293,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [518. 零钱兑换 II](leetcode/518.md)
 - [322. 零钱兑换](leetcode/322.md)
-- [343. 整数拆分](leetcode/343.md)
+
   
 #### 线性DP
 
