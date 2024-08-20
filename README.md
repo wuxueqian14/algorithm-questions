@@ -293,10 +293,13 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 
 - [322. 零钱兑换](leetcode/322.md)
 - [518. 零钱兑换 II](leetcode/518.md)
+- [279. 完全平方数](leetcode/279.md)
 
 #### 线性DP
 
 - [1143. 最长公共子序列](leetcode/1143.md)
+- [1035. 不相交的线](leetcode/1035.md)
+- [583. 两个字符串的删除操作](leetcode/583.md)
 - [72. 编辑距离](leetcode/72.md)
 - [300. 最长递增子序列](leetcode/300.md)
 - [5. 最长回文子串](leetcode/5.md)
