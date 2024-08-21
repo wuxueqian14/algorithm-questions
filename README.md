@@ -281,6 +281,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [221. 最大正方形](leetcode/221.md)
 - [115. 不同的子序列](leetcode/115.md)
 - [343. 整数拆分](leetcode/343.md)
+- [96. 不同的二叉搜索树](leetcode/96.md)
 
 #### 01背包
 
@@ -306,6 +307,8 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [647. 回文子串](leetcode/647.md)
 - [674. 最长连续递增序列](leetcode/674.md)
 - [718. 最长重复子数组](leetcode/718.md)
+- [139. 单词拆分](leetcode/139.md)
+- [32. 最长有效括号](leetcode/32.md)
 
 #### 状态机DP
 
