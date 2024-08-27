@@ -81,6 +81,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [744. 寻找比目标字母大的最小字母](leetcode/744.md)
 - [852. 山脉数组的峰顶索引](leetcode/852.md)
 - [875. 爱吃香蕉的珂珂](leetcode/875.md)
+- [4. 寻找两个正序数组的中位数](leetcode/4.md)
 
 ### 链表
 
@@ -115,7 +116,6 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [142. 环形链表 II](leetcode/142.md)
 - [143. 重排链表](leetcode/143.md)
 - [19. 删除链表的倒数第 N 个结点](leetcode/19.md)
-- [4. 寻找两个正序数组的中位数](leetcode/4.md)
 - [234. 回文链表](leetcode/234.md)
 - [524. 通过删除字母匹配到字典里最长单词](leetcode/524.md)
 - [392. 判断子序列](leetcode/392.md)
