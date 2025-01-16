@@ -135,6 +135,9 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [633. 平方数之和](leetcode/633.md)
 - [345. 反转字符串中的元音字母](leetcode/345.md)
 - [680. 验证回文串 II](leetcode/680.md)
+- [2824. 统计和小于目标的下标对数目](leetcode/2824.md)
+- [16. 最接近的三数之和](leetcode/16.md)
+- [611. 有效三角形的个数](leetcode/611.md)
 
 ### 哈希表
 
@@ -273,6 +276,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [63. 不同路径 II](leetcode/63.md)
 - [64. 最小路径和](leetcode/64.md)
 - [377. 组合总和 Ⅳ](leetcode/377.md)
+- [2466. 统计构造好字符串的方案数](leetcode/2466.md)
 - [198. 打家劫舍](leetcode/198.md)
 - [213. 打家劫舍 II](leetcode/213.md)
 - [337. 打家劫舍 III](leetcode/337.md)
@@ -289,6 +293,7 @@ git clone https://github.com/wuxueqian14/algorithm-questions.git
 - [416. 分割等和子集](leetcode/416.md)
 - [1049. 最后一块石头的重量 II](leetcode/1049.md)
 - [474. 一和零](leetcode/474.md)
+- [2915. 和为目标值的最长子序列的长度](leetcode/2915.md)
 
 #### 完全背包
 
